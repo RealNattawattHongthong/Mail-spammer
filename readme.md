@@ -6,6 +6,6 @@ how to install<br>
 ```pip install threaded```<br>
 How to run<br>
 ```python main.py```<br>
-Python: https://www.python.org/downloads//<br>
+Python: https://www.python.org/downloads/<br>
 Or follow this link : https://replit.com/@RealNattawattHo/mail-spam<br>
 Make By Oreo Young Man (Nattawatt)
